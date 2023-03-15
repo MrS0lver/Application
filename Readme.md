@@ -33,7 +33,7 @@ Enjoy!!
 
 ## Feedback
 
-If you have any feedback, please reach out to us at https://github.com/MrS0lver/Application
+If you have any feedback, please reach out to us at https://github.com/MrS0lver/
 
 
 ## 🔗 Links
