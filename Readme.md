@@ -17,6 +17,7 @@ To deploy this project first clone this repo.
   git clone https://github.com/MrS0lver/Application
 ```
 Then run the .exe file.
+Enjoy!!
 
 
 ## Features
@@ -28,11 +29,7 @@ Then run the .exe file.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+ <img src="https://github.com/MrS0lver/Application/blob/main/Screenshots/Screenshot%202023-03-15%20231457.png" width="300" height="400" /> <img src = "https://github.com/MrS0lver/Application/blob/main/Screenshots/Screenshot%202023-03-15%20231551.png" width="300" height="400" /> <img src = "https://github.com/MrS0lver/Application/blob/main/Screenshots/Screenshot%202023-03-15%20231657.png" width="300" height="400" />
 
 ## Feedback
 
