@@ -6,7 +6,7 @@ Hey Guys I'm Mr.Solver, & in this repo I have uploaded my Applications which I h
 
 ## Authors
 
-- https://twitter.com/Mrs0lver
+- [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mrs0lver)
 
 
 ## Deployment
