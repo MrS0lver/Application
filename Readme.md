@@ -6,7 +6,7 @@ Hey Guys I'm Mr.Solver, & in this repo I have uploaded my Applications which I h
 
 ## Authors
 
-- [@Mrx68683424](https://www.twitter.com/Mrx68683424)
+- https://twitter.com/Mrs0lver
 
 
 ## Deployment
@@ -39,7 +39,7 @@ If you have any feedback, please reach out to us at https://github.com/MrS0lver/
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-solver-37219a260)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mrx68683424)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mrs0lver)
 
 
 ![Logo](https://pbs.twimg.com/profile_images/1630608560668434434/w7mBoDD1_400x400.jpg)
