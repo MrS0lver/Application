@@ -41,8 +41,11 @@ If you have any feedback, please reach out to us at https://github.com/MrS0lver/
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-solver-37219a260)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mrs0lver)
 
+<a href="#">
+  <img src="https://pbs.twimg.com/profile_images/1670456206807400449/DEbRkvAL_400x400.jpg" alt="Circular Image" style="border-radius:50%;">
+</a>
 
-![Logo](https://pbs.twimg.com/profile_images/1630608560668434434/w7mBoDD1_400x400.jpg)
+
 
 `Thanks for Reading.`
 
